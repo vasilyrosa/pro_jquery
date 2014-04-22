@@ -1,0 +1,15 @@
+body{font: 14px'"Trebuchet MS", Arial, Helvetica, sans-serif;'}
+.exemplo{width: 465px; padding: 20px; background: #313FAA;
+text-align: center;color: #FFF}
+label {display: block; margin-bottom: 15px;}
+
+
+.carregando{padding: 20px; background: #069; color: #fff;}
+.carregando img{float: left;margin-right: 10px; width: 20px;}
+img{display: none;}
+
+form{padding: 10px; background: #fbfbfb;}
+label .field{margin-bottom: 5px; font-weight: bold;}
+label input{padding: 5px;}
+.erro_senha, .erro_email{color: #870505; background: #F79191; border: solid 1px #6B0808;
+padding: 4px; margin: 2px;}
